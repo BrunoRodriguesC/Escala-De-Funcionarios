@@ -1,0 +1,29 @@
+fazer um app de escala de funcionarios
+
+tela
+
+adicionar funcionarios
+    horarios  
+        6.50    [funcionarios ja existentes e adicionar] 
+        8   
+        9   
+        voltar
+        sair
+
+
+retirar funcionarios
+    horarios  
+        6.50    [funcionarios ja existentes e adicionar] 
+        8   
+        9   
+        voltar
+        sair
+
+gerar escala
+    [entrar no excel colocar as informacoes e gerar uma pasta de escalas e um arquivo com a data atual]
+
+
+
+
+
+sair 
